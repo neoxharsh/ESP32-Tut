@@ -11,8 +11,7 @@
 - The maximum current safely supplied to an external circuit using the 3V pin is 100mA. Please make sure this limit is not exceeded. 
 - Please do not store or use your ESP32 in extremely hot or cold environments. 
 - Do not place any metal objects across the printed circuits on the board as this can cause a short circuit damaging your ESP32. This can cause risk of burn or fire. 
-- Do not use your E
-SP32 in water or with wet hands. 
+- Do not use your ESP32 in water or with wet hands. 
 - Do not leave your ESP32 plugged into a computer or any other device unsupervised.
 - Please do not leave your ESP32 within reach of children under 8 years of age. 
 ```
