@@ -11,7 +11,8 @@
 - The maximum current safely supplied to an external circuit using the 3V pin is 100mA. Please make sure this limit is not exceeded. 
 - Please do not store or use your ESP32 in extremely hot or cold environments. 
 - Do not place any metal objects across the printed circuits on the board as this can cause a short circuit damaging your ESP32. This can cause risk of burn or fire. 
-- Do not use your ESP32 in water or with wet hands. 
+- Do not use your E
+SP32 in water or with wet hands. 
 - Do not leave your ESP32 plugged into a computer or any other device unsupervised.
 - Please do not leave your ESP32 within reach of children under 8 years of age. 
 ```
@@ -40,4 +41,20 @@
 * 1 x 2.2K (2200) Ohm Resistor
 * 2 x Male - Female Duopont Wire
 * 2 x Male - Male Duopont Wire
+
+### Learning Objectives
+The objectives of this tutorial are to explore and learn the basic concepts of electricity, circuits, series circuits and elements that make up a series circuit. 
+Explore the following concepts through making –
+* What is a circuit
+* Current flowing through a circuit
+* What are passive and active components in a circuit
+* Connecting elements in a circuit in series
+
+```diff
+## What Are Resistors
+“What is a resistor?” the student asked.
+“It’s a component that resists the flow of current” I said.
+“Hmm.. I don’t get it. What does it do to my circuit?” the student asked.
+“Well, it doesn’t actually do anything actively, all a resistor does is resists the flow of current through a given circuit” I said. Have a look at what the resistor might look like. 
+```
 
